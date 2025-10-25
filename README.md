@@ -43,17 +43,21 @@ HomeChef is a Streamlit-based application designed to assist users in managing t
 
 ## Screenshots
 
-### Home Screen
-![Home Screen](images/home_screen.png)
-
 ### Ingredients Manager
-![Ingredients Manager](images/ingredients_manager.png)
+![Ingredients Manager](images/Ingredients_Manager.png)
+Manage your ingredients by adding, viewing, and removing items.
+
+### Grocery List Generator
+![Grocery List Generator](images/Grocery_List_generator.png)
+Generate a grocery list based on your recipe text.
 
 ### Recipe Assistant
-![Recipe Assistant](images/recipe_assistant.png)
+![Recipe Assistant](images/Recipe_Assitant.png)
+Generate recipes based on available ingredients using AI.
 
-### Recipe Assistant Demo
-![Recipe Assistant Demo](images/recipe_assitant_demo.png)
+### Cooking Assistant
+![Cooking Assistant](images/Cooking_Assistant.png)
+Get AI-generated help for any cooking-related questions or tips.
 
 ## Project Structure
 
