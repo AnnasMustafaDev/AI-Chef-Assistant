@@ -44,7 +44,7 @@ HomeChef is a Streamlit-based application designed to assist users in managing t
 ## Screenshots
 
 ### Ingredients Manager
-![Ingredients Manager](images/Ingredients_Manager.png)
+![Ingredients Manager](images/ingredients_manager.png)
 Manage your ingredients by adding, viewing, and removing items.
 
 ### Grocery List Generator
