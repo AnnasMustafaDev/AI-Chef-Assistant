@@ -22,6 +22,7 @@ HomeChef is a Streamlit-based application designed to assist users in managing t
    python -m venv .venv
    .\.venv\Scripts\activate  # On Windows
    source .venv/bin/activate   # On macOS/Linux
+   ~/homechef-venv/Scripts/Activate.ps1
    ```
 
 3. Install the required dependencies:
@@ -39,6 +40,20 @@ HomeChef is a Streamlit-based application designed to assist users in managing t
 2. Open your browser and navigate to:
    - Local URL: `http://localhost:8501`
    - Network URL: `http://<your-network-ip>:8501`
+
+## Screenshots
+
+### Home Screen
+![Home Screen](images/home_screen.png)
+
+### Ingredients Manager
+![Ingredients Manager](images/ingredients_manager.png)
+
+### Recipe Assistant
+![Recipe Assistant](images/recipe_assistant.png)
+
+### Recipe Assistant Demo
+![Recipe Assistant Demo](images/recipe_assitant_demo.png)
 
 ## Project Structure
 
