@@ -1,11 +1,11 @@
-# HomeChef 🍳
+# AI chef assistant 🍳
 
-HomeChef is a Streamlit-based application designed to assist users in managing their recipes, grocery lists, and ingredients. It also provides a recipe assistant for generating recipes and cooking tips.
+It is a Streamlit-based application designed to assist users in managing their recipes, grocery lists, and ingredients using AI agents. It also provides a recipe assistant for generating recipes and cooking tips.
 
 ## Features
 
 - **Ingredients Manager**: Add, view, and manage your ingredients.
-- **Recipe Assistant**: Generate recipes based on available ingredients and get cooking tips.
+- **Recipe AI Assistant**: Generate recipes based on available ingredients and get cooking tips.
 - **Grocery List Generator**: Create a grocery list from a recipe.
 - **Favorites**: Save and manage your favorite recipes.
 
